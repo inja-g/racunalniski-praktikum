@@ -18,6 +18,7 @@
 *.snm
 *.synctex.gz
 *.synctex(busy)
+.bib
 
 # Arhivi, iz katerih smo datoteke že odpakirali
 *.zip
